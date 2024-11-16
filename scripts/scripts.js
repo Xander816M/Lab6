@@ -12,7 +12,7 @@ You are encouraged to use the provided naming convention for ease of review.
 // INSERT YOUR CODE HERE
 
 let modelName = document.getElementById("model-text").innerHTML;
-let duration;
+let duration = 0;
 
 /****************** helper function ******************/
 /* create a function called recalculate() which will
